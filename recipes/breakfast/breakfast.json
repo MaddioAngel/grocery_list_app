@@ -1,12 +1,309 @@
 {
     "1" : {
-        "name": "",
-        "ingredients": [],
-        "instructions" : ["1. "],
+        "name": "Parfait",
+        "ingredients": {
+            "Vanilla Nonfat Yogurt" : "3 cups",
+            "Strawberry" : "1 cup",
+            "Berries" : "2 cups",
+            "Granola" : "1 cup"  
+        },
+        "instructions" : ["1. Layer 1/3 cup vanilla yogurt into the bottom each of 4 tall glasses.",
+                        "2. Combine defrosted strawberries and juice with fresh berries.", 
+                        "3. Alternate layers of fruit and granola with yogurt until glasses are filled to the top."],
         "type" : "breakfast"
     },
     "2" : {
-        "name": "",
+        "name": "Protein Shakes",
+        "ingredients": {
+            "Premier Protein Powder" : "1 Scope",
+            "Milk" : "1 cup"
+        },
+        "instructions" : ["1. Pour 1 cup of milk into a glass and mix with 1 scoop of protein powder.",
+                        "2. Top with 1/2 cup of milk and mix until smooth."],
+        "type" : "breakfast"
+    },
+    "3" : {
+        "name": "Protein Bars",
+        "ingredients": {
+            "KIND Protein Bar" : "1 bar"
+        },
+        "instructions" : ["1. Unwrap the bar"],
+        "type" : "breakfast"
+    },
+    "4" : {
+        "name": "Whole-Grain Waffles",
+        "ingredients": {},
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "5" : {
+        "name": "Waffles",
+        "ingredients": {
+            "Canola oil" : "0.25 cup",
+            "Eggs (Beaten)" : "2",
+            "Skim milk" : "1.75 cups",
+            "Unsweetened Applesauce" : "0.25 cup",
+            "Vanilla Extract" : "1 teaspoon",
+            "Whole Wheat Pastry Flour" : "1 cup",
+            "Flax Seed Meal" : "0.5 cup",
+            "Wheat Germ" : "0.25 cup",
+            "All-purpose Flour" : "0.25 cup",
+            "Baking Powder" : "4 teaspoons",
+            "Sugar" : "1 tablespoon",
+            "Salt" : "0.25 teaspoon"
+        },
+        "instructions" : ["1. In a large bowl, whisk together the eggs, milk, oil, applesauce, and vanilla. ",
+                        "2. Beat in whole wheat pastry flour, flax seed meal, wheat germ, all-purpose flour, baking powder, sugar, and salt until batter is smooth.", 
+                        "3. Preheat a waffle iron, and coat with cooking spray. ",
+                        "4. Pour batter into waffle iron in batches, and cook until crisp and golden brown."],
+        "type" : "breakfast"
+    },
+    "6" : {
+        "name": "Cinnamon bread",
+        "ingredients": {
+            "All-purpose Flour  " : "2 cups",
+            "White Sugar" : "1 cup",
+            "Baking Powder" : "2 teaspoons",
+            "Baking Soda" : "0.5 teaspoon",
+            "Ground Cinnamon" : "1.5 teaspoons",
+            "Salt" : "1 teaspoon",
+            "Buttermilk" : "1 cup",
+            "vegetable oil" : "0.25 cup",
+            "eggs" : "2",
+            "vanilla extract" : "2 tablespoons",
+            "white sugar" : "1 teaspoon",
+            "ground cinnamon" : "1 teaspoon",
+            "margarine" : "2 teaspoons"
+        },
+        "instructions" : ["1. Preheat oven to 350 degrees F (175 degrees C). Grease one 9x5 inch loaf pan.", 
+                        "2. Measure flour, 1 cup sugar, baking powder, baking soda, 1 1/2 teaspoons cinnamon, salt, buttermilk, oil, eggs and vanilla into large mixing bowl. Beat 3 minutes. Pour into prepared loaf pan. Smooth top.",
+                        "3. Combine 2 tablespoons white sugar, 1 teaspoon cinnamon and butter, mixing until crumbly. Sprinkle topping over smoothed batter. Using knife, cut in a light swirling motion to give a marbled effect.",
+                        "4. Bake for about 50 minutes. Test with toothpick. When inserted it should come out clean. Remove bread from pan to rack to cool."],
+        "type" : "breakfast"
+    },
+    "7" : {
+        "name": "Fruit Salad",
+        "ingredients": {
+            "green grapes" : "1 cup (some halved and some whole)",
+            "strawberries" : "8",
+            "peach" : "1",
+            "blueberries" : "0.5 cup",
+            "Granny Smith apple" : "0.5",
+            "orange juice" : "0.5 cup"
+        },
+        "instructions" : ["1. Mix grapes, strawberries, peach, blueberries, and apple together in a bowl.",
+                        "2. Pour orange juice over fruit salad and stir."],
+        "type" : "breakfast"
+    },
+    "8" : {
+        "name": "Omelette",
+        "ingredients": {
+            "eggs" : "2",
+            "milk" : "1 tablespoon",
+            "baby spinach leaves" : "0.5 cup",
+            "slices shaved ham" : "2",
+            "grated lowfat swiss cheese" : "0.25 cup"
+        },
+        "instructions" : ["1. Place the egg yolks in a bowl with the milk and combine", 
+                        "2. In a separate bowl, whisk the egg whites to medium soft peaks.", 
+                        "3. Gently fold into the egg yolk mixture. Set aside (do not allow to sit for too long).",
+                        "4. Spray a small non-stick frying pan with oil spray and place over medium heat.",
+                        "5. Add the baby spinach and cook for 1-2 minutes or until wilted. Remove from pan and wipe pan clean.", 
+                        "6. Spray pan again and return to the heat.",
+                        "7. Pour in the egg mixture and cook for 2-3 minutes or until surface is nearly firm.", 
+                        "8. lace the ham, spinach and cheese over half the omelette, then fold over the other side to enclose the filling.",
+                        "9. Serve immediately. Repeat ingredients and method for additional omelettes."],
+        "type" : "breakfast"
+    },
+    "9" : {
+        "name": "Complete Breakfast",
+        "ingredients": {
+            "" : "",
+            "" : "",
+            "" : ""
+        },
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "10" : {
+        "name": "Scrambled Eggs",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "11" : {
+        "name": "Chorizo and eggs",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "12" : {
+        "name": "Eggos",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "13" : {
+        "name": "Vegan Pancakes with Chocolate Syrup",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "14" : {
+        "name": "Acai Bowl",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "15" : {
+        "name": "Berry Smoothies",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "16" : {
+        "name": "Chocolate granola",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "17" : {
+        "name": "Chocolate Zucchini Bread",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "18" : {
+        "name": "Lighter French Toast",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "19" : {
+        "name": "Linguica Sausage",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "20" : {
+        "name": "Peanut Butter and Toast",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "21" : {
+        "name": "Lemon Muffins with Chia Seeds",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "22" : {
+        "name": "Chocolate Chip Banana Muffins",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "23" : {
+        "name": "Healthy Apple Cinnamon Muffins",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "24" : {
+        "name": "Vegan Raspberry Scones",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "25" : {
+        "name": "Blueberry Scones",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "26" : {
+        "name": "Pistachio Oat Squares",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "27" : {
+        "name": "Peanut Butter Goji Granola Bars",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "28" : {
+        "name": "Veggie-Packed Frittata",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "29" : {
+        "name": "Healthy Cereal",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "30" : {
+        "name": "Breakfast Burrito",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "31" : {
+        "name": "Paleo Collard Burrito",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "32" : {
+        "name": "Paleo Collard Burrito",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "33" : {
+        "name": "Healthy Cereal",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "34" : {
+        "name": "Chia Seed Pudding",
+        "ingredients": [],
+        "instructions" : ["1. ", 
+                        "2. "],
+        "type" : "breakfast"
+    },
+    "35" : {
+        "name": "English Muffins with Jelly",
         "ingredients": [],
         "instructions" : ["1. ", 
                         "2. "],
