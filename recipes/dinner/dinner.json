@@ -1,266 +1,454 @@
 {
     "1" : {
-        "name": "",
+        "name": "Chili-Cheese Nachos",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "lean ground beef" : "1 pound",
+            "finely chopped white onion" : "0.75 cup",
+            "finely chopped red bell pepper" : "0.5 cup",
+            "cloves garlic, chopped" : "4",
+            "chili powder" : "2 tablespoons",
+            "ground cumin" : "1 tablespoon",
+            "dried oregano" : "2 teaspoons",
+            "ground coriander" : "1 tablespoon",
+            "can diced tomatoes" : "1 (14 oz)",
+            "water" : "0.25 cup",
+            "tortilla chips" : "8 oz",
+            "shredded cheese, such as Cheddar or pepper Jack" : "2 cups"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "1. Preheat oven to 350 degrees F.",
+            "2. Cook beef, onion, bell pepper and garlic in a large skillet over medium-high heat, crumbling the beef with a spatula, until the meat is browned, 8 to 10 minutes.",
+            "3. Stir in chili powder, cumin, oregano and coriander; cook, stirring, for 30 seconds.",
+            "4. Add tomatoes (with their juice) and water and simmer for 5 minutes.",
+            "5. Top chips with the chili and cheese. Bake until the cheese is melted, about 7 minutes."
+        ],
+        "type" : "Dinner"
     },
     "2" : {
-        "name": "",
+        "name": "Tortilla Pepperoni Pizza",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "8-inch whole-wheat tortilla" : "1",
+            "tomato paste" : "3 tablespoons",
+            "Italian seasoning" : "0.5 teaspoon",
+            "garlic powder" : "0.25 teaspoon",
+            "part-skim mozzarella cheese" : "1/3 cup shredded",
+            "green bell pepper, sliced" : "0.25",
+            "pepperoni (8-10 small slices)" : "0.5 oz"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "1. Preheat oven 425 degrees F. ",
+            "2. Place tortilla on a baking sheet.",
+            "3. Combine tomato paste, Italian seasoning and garlic powder in a small bowl.",
+            "4. Spread the mixture over the tortilla.",
+            "5. Top with mozzarella, bell pepper and pepperoni.",
+            "6. Bake until the cheese is melted and the edges of the tortilla are crisp, 8 to 10 minutes."
+        ],
+        "type" : "Dinner"
     },
     "3" : {
-        "name": "",
+        "name": "Black Bean Tacos",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "black beans, rinsed" : "2 (15 oz)",
+            "ground cumin" : "1 teaspoon",
+            "garlic powder" : "0.5 teaspoon",
+            "hard taco shells" : "8",
+            "shredded Mexican cheese blend" : "0.75 cup"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "1. Preheat oven to 325 degrees F.",
+            "2. Mash half of the beans in a large bowl.",
+            "3. Add whole beans, cumin and garlic powder; stir to combine.",
+            "4. Fill each taco shell with about 1/3 cup of the bean mixture. Top with cheese.",
+            "5. Place the filled tacos on a baking sheet and bake until the beans are hot and the cheese is melted, 12 to 15 minutes."
+        ],
+        "type" : "Dinner"
     },
     "4" : {
-        "name": "",
-        "ingredients": {},
-        "instructions" : [],
-        "type" : ""
+        "name": "Oven-Fried Beef Taquitos",
+        "ingredients": {
+            "medium zucchini" : "1",
+            "canola oil" : "2 teaspoons",
+            "extra-lean ground beef" : "1 pound",
+            "chili powder" : "3 tablespoons",
+            "onion powder" : "2 teaspoons",
+            "ground cumin" : "1 teaspoon",
+            "salt" : "0.5 teaspoon",
+            "6-inch corn tortillas" : "12",
+            "Canola oil cooking spray" : "1",
+            "shredded sharp Cheddar cheese" : "0.75 cup"
+        },
+        "instructions" : [
+            "1. Preheat oven to 425 degrees F.",
+            "2. Shred zucchini using the large holes of a box grater.",
+            "3. Squeeze dry in a clean kitchen towel (you should have about 2 cups).",
+            "4. Heat oil in a large nonstick skillet over medium-high heat.",
+            "5. Add the zucchini, beef, chili powder, onion powder, cumin and salt.",
+            "6. Cook, stirring, until the beef is cooked through, 5 to 7 minutes.",
+            "7. Spread tortillas out on a baking sheet in two overlapping rows.",
+            "8. Bake until hot, 2 minutes. Transfer to a plate and cover.",
+            "9. Coat the baking sheet with cooking spray. Place 6 tortillas on a clean cutting board.",
+            "10. Working quickly, spread a generous 1/4 cup beef mixture along the bottom third of a tortilla, sprinkle with about 1 tablespoon cheese and tightly roll into a cigar shape.",
+            "11. Place the taquito seam-side down on the baking sheet. ",
+            "12. Repeat with the remaining tortillas, filling and cheese.",
+            "13. Generously coat the top and sides of the taquitos with cooking spray.",
+            "14. Bake the taquitos until browned and crispy, 14 to 18 minutes."
+        ],
+        "type" : "Dinner"
     },
     "5" : {
-        "name": "",
+        "name": "One-Pot Spinach, Chicken Sausage & Feta Pasta",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "olive oil" : "2 tablespoons",
+            "links cooked chicken sausage (9 ounces), sliced into rounds" : "3",
+            "diced onion" : "1 cup",
+            "garlic, minced" : "1 clove",
+            "can no-salt-added tomato sauce" : "1 (8 oz)",
+            "lightly packed baby spinach (half of a 5-ounce box)" : "4 cups",
+            "cooked whole-wheat rotini pasta" : "6 cups",
+            "chopped pitted Kalamata olives" : "0.25 cup",
+            "finely crumbled feta cheese" : "0.5 cup",
+            "chopped fresh basil " : "0.5 cup"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "1. Heat oil in a large straight-sided skillet over medium-high heat.",
+            "2. Add sausage, onion and garlic; cook, stirring often, until the onion is starting to brown, 4 to 6 minutes.",
+            "3. Add tomato sauce, spinach, pasta and olives; cook, stirring often, until bubbling hot and the spinach is wilted, 3 to 5 minutes.",
+            "4. Add 1 to 2 tablespoons water, if necessary, to keep the pasta from sticking.",
+            "5. Stir in feta and basil, if using."
+        ],
+        "type" : "Dinner"
     },
     "6" : {
-        "name": "",
+        "name": "Easy Chicken Enchilada Casserole",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "can crushed tomatoes (3 cups)" : "1 (28 oz)",
+            "ground cumin" : "2 tablespoons",
+            "ground chipotle chile powder" : "1/2-1 teaspoon",
+            "salt" : "0.25 teaspoon",
+            "corn tortillas, cut into wedges" : "8",
+            "can black beans, rinsed and drained" : "1 (15 oz)",
+            "chopped Meal-Prep Sheet-Pan Chicken Thighs" : "1 cup",
+            "boneless, skinless chicken thighs, trimmed" : "1.75 pounds",
+            "extra-virgin olive oil" : "2 teaspoons",
+            "large clove garlic, minced" : "1",
+            "kosher salt" : "1 teaspoon",
+            "dried oregano" : "1 teaspoon",
+            "Sautéed Peppers & Onions" : "2 cups",
+            "extra-virgin olive oil (Peppers)" : "2 tablespoons",
+            "bell peppers, sliced" : "4",
+            "sliced sweet onions" : "3 cups",
+            "salt (Peppers)" : "1 teaspoon",
+            "shredded Mexican cheese blend (6 ounces), divided" : "1.5 cups"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "For Chicken",
+            "1. Preheat oven to 425 degrees F. Line a baking sheet with parchment paper.",
+            "2. Place chicken in a large bowl. Add oil, garlic, salt and oregano; toss until well coated.",
+            "3. Arrange the chicken on the prepared pan. Roast until cooked through, 18 to 22 minutes.",
+            "For Pepper and Onions",
+            "1. Heat oil in a large straight-sided sauté pan or Dutch oven over medium heat.",
+            "2. Add peppers, onions and salt; cook, stirring occasionally, until the vegetables are tender and starting to brown, 18 to 21 minutes.",
+            "For meal:",
+            "1. Stir tomatoes, cumin, chile powder and salt together in a medium bowl.",
+            "2. Coat a 7- or 8-by-11-inch casserole dish with cooking spray.",
+            "3. Spoon 1/2 cup of the tomato sauce into the bottom of the prepared dish.",
+            "4. Arrange 1/3 of the tortilla wedges over the tomato sauce.",
+            "5. Top with half of the beans, half of the chicken and half of the pepper mixture.",
+            "6. Top with 1 cup sauce and 1/2 cup cheese. Layer on half the remaining tortillas.",
+            "7. Top with the remaining beans, chicken and pepper mixture.",
+            "8. Top with 1 cup of the sauce and 1/2 cup cheese.",
+            "9. Layer on the remaining tortillas, followed by the remaining sauce (about 1/3 cup).",
+            "10. Sprinkle with the remaining 1/2 cup cheese. Cover with foil and refrigerate until ready to cook, up to 3 days.",
+            "11. Preheat oven to 375 degrees F.",
+            "12. Bake the casserole, uncovered, until hot and bubbling, 35 to 40 minutes.",
+            "13.  (Alternatively, microwave the casserole, covered with wax paper, on Medium-High until steaming hot, 12 to 15 minutes.) Serve hot."
+        ],
+        "type" : "Dinner"
     },
     "7" : {
-        "name": "",
+        "name": "Classic Beef Burgers with Cauliflower Buns",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "chopped onion" : "0.5 cup",
+            "canola oil" : "1 tablespoon and 1 teaspoon",
+            "ketchup" : "2 tablespoons, divided",
+            "mayonnaise" : "2 tablespoons",
+            "dill pickle relish" : "",
+            "white vinegar" : "",
+            "lean ground beef" : "",
+            "Worcestershire sauce" : "",
+            "ground pepper" : "",
+            "tomato" : "4 slices",
+            "green-leaf lettuce" : "4 leaves",
+            "Cauliflower Buns" : "4",
+            "cauliflower florets" : "5 cups (about 1 pound)",
+            "shredded sharp Cheddar cheese" : "1 cup",
+            "large egg, lightly beaten" : "1",
+            "sesame seeds" : "1 teaspoon"
         },
-        "instructions" : [],
-        "type" : ""
+        "instructions" : [
+            "For Buns",
+            "1. Preheat oven to 425 degrees F. Line a large baking sheet with parchment paper or a silicone baking mat.",
+            "2. Place cauliflower in a food processor; process until very finely grated. Transfer to a microwave-safe bowl.",
+            "3. Cover loosely and microwave on High for 3 minutes. Let cool slightly.",
+            "4. Transfer the cauliflower to a clean kitchen towel and wring out all excess moisture. Return to the bowl.",
+            "5. dd cheese and egg; stir until thoroughly combined.",
+            "6. Use a 1/4-cup measure to distribute the batter into 8 portions on the prepared pan.",
+            "7. Pat each into a 3-inch circle.",
+            "8. Bake until browned and crispy around the edges, 20 to 25 minutes. Transfer to a cooling rack and sprinkle with sesame seeds.",
+            "For meal:",
+            "1. Combine onion, 1 tablespoon oil and 1 tablespoon ketchup in a small saucepan.", 
+            "2. Cover and cook over medium heat, stirring often, until the onion is softened, 5 to 7 minutes. Transfer to a medium bowl.",
+            "3. Combine the remaining 1 tablespoon ketchup, mayonnaise, relish and vinegar in a small bowl. Set aside.",
+            "4. Add beef, Worcestershire and pepper to the onion mixture and gently combine without overmixing. Form into four 4-inch patties.",
+            "5. Heat the remaining 1 teaspoon oil in a large nonstick skillet over medium-high heat.",
+            "6. Add the burgers, reduce heat to medium and cook, turning once, until just cooked through, 5 to 7 minutes per side.",
+            "7. Assemble the burgers on buns with the ketchup mixture, tomato and lettuce."
+            ],
+        "type" : "Dinner"
     },
     "8" : {
-        "name": "",
-        "ingredients": {},
-        "instructions" : [],
-        "type" : ""
+        "name": "Caprese Turkey Burgers",
+        "ingredients": {
+            "lean ground turkey" : "1 pound",
+            "Italian seasoning" : "1 teaspoon",
+            "garlic powder" : "0.5 teaspoon",
+            "salt" : "0.25 teaspoon",
+            "ground pepper" : "0.25 teaspoon",
+            "crushed red pepper" : "0.25 teaspoon",
+            "extra-virgin olive oil" : "1 tablespoon",
+            "fresh mozzarella, sliced into 4 pieces" : "4 oz",
+            "mayonnaise" : "0.25 cup",
+            "chopped basil" : "0.25 cup",
+            "basil leaves, divided" : "1/3 cup",
+            "slices tomato (from 2 tomatoes)" : "8",
+            "balsamic vinegar" : "1 teaspoon",
+            "whole-wheat buns, toasted" : "4"
+        },
+        "instructions" : [
+            "1. Combine turkey, Italian seasoning, garlic powder, salt, pepper and crushed red pepper in a medium bowl.",
+            "2. Form into 4 equal patties, about 4 inches in diameter.",
+            "3. Heat oil in a large nonstick skillet over medium-high heat.",
+            "4. Reduce heat to medium and add the burgers. Cook for 4 minutes.",
+            "5. Turn over and top each with a mozzarella slice.",
+            "6. Cover and cook until an instant-read thermometer reaches 165 degrees F, another 3 or 4 minutes.",
+            "7. Meanwhile, stir mayonnaise and chopped basil together in a small bowl. Place tomato slices on a plate and drizzle with vinegar.",
+            "8. Spread about 1 tablespoon of the mayonnaise mixture on the bottom of each bun. Top with a burger, two tomato slices and some basil leaves."
+        ],
+        "type" : "Dinner"
     },
     "9" : {
-        "name": "",
+        "name": "California Turkey Burgers & Baked Sweet Potato Fries",
         "ingredients": {
-            "" : "",
-            "" : "",
-            "" : ""
+            "medium sweet potato (12 oz.), peeled" : "1",
+            "canola oil" : "2 teaspoons",
+            "salt" : "1/8 teaspoon",
+            "lean ground turkey" : "8 oz",
+            "shredded sharp Cheddar cheese" : "0.25 cup",
+            "Worcestershire sauce" : "",
+            "garlic powder" : "",
+            "ground pepper" : "",
+            "salt (burger)" : "",
+            "canola oil (burger)" : "",
+            "sweet onion, such as Vidalia" : "2 slices",
+            "thick slices tomato" : "2",
+            "avocado" : "0.5",
+            "large, soft lettuce leaves, such as green leaf or butterhead" : "4-6"
         },
-        "instructions" : ["1. ", 
-                        "2. "],
-        "type" : ""
+        "instructions" : [
+            "1. To prepare fries: Preheat oven to 425 degrees F.",
+            "2. Slice sweet potato into 1/4-inch-thick matchsticks.",
+            "3. Place on a baking sheet, drizzle with oil, and toss to coat.",
+            "4. Sprinkle with 1/8 tsp. salt. Bake, flipping halfway through, until tender and crisp-edged, 20 to 25 minutes.",
+            "5. Meanwhile, prepare burgers: Using your hands, mix turkey, Cheddar, Worcestershire, garlic powder, pepper, and salt in a medium bowl.",
+            "6. Shape into two 4-inch patties, about 3/4 inch thick.",
+            "7. Brush oil over a medium nonstick or cast-iron skillet; set it over medium heat for 2 minutes.",
+            "8. Add the patties and cook for 2 minutes. Flip and cook for 2 more minutes.",
+            "9. Cover the pan and continue to cook until the patties are lightly browned but still juicy (the juices should run clear, not pink)",
+            "10. and an instant-read thermometer inserted in the center registers 165 degrees F, 2 to 4 minutes more.",
+            "11. To assemble the burgers, top each patty with a slice of onion and tomato, and half the avocado slices.",
+            "12. Carefully wrap each one in 2 to 3 lettuce leaves, wrapping as tightly as you can. Serve with the sweet potato fries."
+        ],
+        "type" : "Dinner"
     },
     "10" : {
-        "name": "",
+        "name": "Green Veggie Bowl with Chicken & Lemon-Tahini Dressing",
         "ingredients": {},
         "instructions" : [],
-        "type" : ""
+        "type" : "Dinner"
     },
     "11" : {
-        "name": "",
+        "name": "Kung Pao Chicken with Bell Peppers",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "12" : {
-        "name": "",
+        "name": "Skillet Steak with Mushroom Sauce",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "13" : {
-        "name": "",
+        "name": "One-Pan Chicken Parmesan Pasta",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "14" : {
-        "name": "",
+        "name": "Easy Chicken Fried Rice",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "15" : {
-        "name": "",
+        "name": "Easy Lasagna",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "16" : {
-        "name": "",
+        "name": "Crispy Baked Ravioli with Red Pepper & Mushroom Bolognese",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "17" : {
-        "name": "",
+        "name": "Mac and Cheese with Chicken strips and Broccoli",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "18" : {
-        "name": "",
-        "ingredients": {},
+        "name": "Jambalaya (Ham, Chicken, Mushroom, Carrots)",
+        "ingredients": {"Mushrooms":"1 box"},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "19" : {
-        "name": "",
+        "name": "Chinese Chicken Salad",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "20" : {
-        "name": "",
+        "name": "Tri tip and french fries",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "21" : {
-        "name": "",
+        "name": "Beef Stroganoff",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "22" : {
-        "name": "",
+        "name": "Black Bean Tostadas",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "23" : {
-        "name": "",
+        "name": "Homemade Crunchwrap Supreme",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "24" : {
-        "name": "",
+        "name": "TikTok Ramen",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "25" : {
-        "name": "",
+        "name": "Easy Chicken Fajitas",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "26" : {
-        "name": "",
+        "name": "Baked Spaghetti",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "27" : {
-        "name": "",
+        "name": "Chipotle Chicken",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "28" : {
-        "name": "",
+        "name": "Baked Penne Alla Vodka with Turkey",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "29" : {
-        "name": "",
+        "name": "Beef and Broccoli",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "30" : {
-        "name": "",
+        "name": "Air Fryer Chicken",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "31" : {
-        "name": "",
+        "name": "Sheet Pan Honey Mustard Pretzel Chicken",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "32" : {
-        "name": "",
+        "name": "Sesame-Seed Crusted Chicken Parm",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "33" : {
-        "name": "",
+        "name": "Kung Pao Chicken",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "34" : {
-        "name": "",
+        "name": "Chicken Tenders",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     },
     "35" : {
-        "name": "",
+        "name": "Chicken Parmesan Spaghetti",
         "ingredients": {},
         "instructions" : ["1. ", 
                         "2. "],
-        "type" : ""
+        "type" : "Dinner"
     }
 }
